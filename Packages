@@ -5,8 +5,8 @@ Maintainer: Michaelsoft1853
 Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
-Size: 51658
-MD5sum: 536009a11dad57e48a5563224eaffaff
+Size: 78056
+MD5sum: 94325cbe75c1b30c15b7f4f24defd37b
 Description: lets you use unsigned apps
 Name: AppSync Unified
 Author: m
