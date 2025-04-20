@@ -1,0 +1,23 @@
+<package>
+	<id>ai.akemi.appsyncunified</id>
+	<name>AppSync Unified</name>
+	<version>116.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>lets you use unsigned apps</shortDescription>
+	<descriptionlist>
+		<description>lets you use unsigned apps</description>
+		<description>lets you use unsigned apps</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+</package>
