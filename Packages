@@ -8,7 +8,7 @@ Author: m
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
 Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
-Size: 51658
+Size: 50400
 MD5sum: 536009a11dad57e48a5563224eaffaff
 SHA1: e0fa412cb3c26718887edd834804c88909297079
 SHA256:0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
