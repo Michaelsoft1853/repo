@@ -37,3 +37,20 @@ Homepage: https://michaelsoft1853.github.io
 Description: lets you use apps without signing
 Author: a
 Name: AppSync Unified
+
+Package: com.unlimapps.uaupdatetools
+Version: 1.0r-102
+Architecture: iphoneos-arm
+Maintainer: a
+Depends: firmware (>= 8.0), mobilesubstrate, firmware (<= 10.0)
+Provides: uaupdatetools, com.unlimapps.uaupdatetools
+Filename: debs/com.unlimapps.uaupdatetools_1.0r-102_iphoneos-arm.deb
+Size: 863628
+MD5sum: 94325cbe75c1b30c15b7f4f24defd37b
+SHA1: 698bcbf521d81925cf4528d4661fb4af973e5dab
+SHA256: ffb6b3dfd84c8e6285c961bfc94f9645b2b194791d8dc43bcfc56f6b66b15e01
+Section: Tweaks
+Homepage: https://michaelsoft1853.github.io
+Description: lets you use apps without signing
+Author: a
+Name: App Admin
