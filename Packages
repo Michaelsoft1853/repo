@@ -46,9 +46,9 @@ Depends: firmware (>= 8.0), mobilesubstrate, firmware (<= 10.0)
 Provides: uaupdatetools, com.unlimapps.uaupdatetools
 Filename: debs/com.unlimapps.uaupdatetools_1.0r-102_iphoneos-arm.deb
 Size: 863628
-MD5sum: 94325cbe75c1b30c15b7f4f24defd37b
-SHA1: 698bcbf521d81925cf4528d4661fb4af973e5dab
-SHA256: ffb6b3dfd84c8e6285c961bfc94f9645b2b194791d8dc43bcfc56f6b66b15e01
+MD5sum: 6d7f076eb541e5bbec3e3629f152d16d
+SHA1: 058a98b3da7197c1c767c71a6db420b392a460d2
+SHA256: 8a251edeb458547686060caa4545800061b5d6d465b34982c1e76580474180c1
 Section: Tweaks
 Homepage: https://michaelsoft1853.github.io
 Description: lets you use apps without signing
